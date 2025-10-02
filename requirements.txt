@@ -1,1 +1,2 @@
-/Users/gianlucabasso/Downloads/groupes2.ipynb
+voila
+ipywidgets>=8
